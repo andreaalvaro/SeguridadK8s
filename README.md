@@ -5,7 +5,8 @@ El objetivo principal de este TFG es concienciar sobre la necesidad de implement
 En este repositorio, encontrarás los detalles del proyecto, como la metodología empleada, las herramientas de seguridad evaluadas, ejemplos prácticos y comparadas y los resultados obtenidos. 
 
 ## Estrutura del proyecto
-El codigo esta divido en carpetas donde se encuentran los ejemplos para cada una de las herramientas que se van a evaluar
+El codigo esta divido en carpetas donde se encuentran los ejemplos para cada una de las herramientas que se van a evaluar. 
+En el .pdf se encontrara la memoria del TFG donde aparecera detalladamente las tablas comparativas de las herramientas asi la organización del proyecto. 
 
 
 ## Herramientas selecionadas
