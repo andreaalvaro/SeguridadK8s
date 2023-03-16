@@ -30,6 +30,13 @@ A nivel de cluster detectamos diferentes aspectos a tener en cuenta para asegura
  
  *Policy Management*
  - Kyverno
+ 1 ejemplo por cada tipo de politica
+   - Generate 
+   - Validate
+   - Mutate 
+   - Verify Images
+
+
  - GateKeeper OPA
  
 ### Container runtime layer 
