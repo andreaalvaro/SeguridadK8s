@@ -35,13 +35,11 @@ A nivel de cluster detectamos diferentes aspectos a tener en cuenta para asegura
    - Validate
    - Mutate 
    - Verify Images
-
-
+ 
  - GateKeeper OPA
  
 ### Container runtime layer 
 -
-
 A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para asegurar la seguridad de los clusters:
 
 *Image Registry*
