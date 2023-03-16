@@ -74,3 +74,4 @@ A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para aseg
 
 - Donde introducir ISTIO ? 
 - HArbor ? Buscar otros para comparar
+- Manual de estrucción unificado de todas las herramientas
