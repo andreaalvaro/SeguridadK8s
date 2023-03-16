@@ -6,7 +6,7 @@ En este repositorio, encontrarás los detalles del proyecto, como la metodologí
 
 ## Estrutura del proyecto
 El codigo esta divido en carpetas donde se encuentran los ejemplos para cada una de las herramientas que se van a evaluar. 
-En el .pdf se encontrara la memoria del TFG donde aparecera detalladamente las tablas comparativas de las herramientas asi la organización del proyecto. 
+En el .docx se encontrara la memoria del TFG donde aparecera detalladamente las tablas comparativas de las herramientas asi la organización del proyecto. 
 
 
 ## Herramientas selecionadas
