@@ -12,10 +12,11 @@ En el .docx se encontrara la memoria del TFG donde aparecera detalladamente las 
 ## Herramientas selecionadas
 
 ### Cluster Layer 
+-
 A nivel de cluster detectamos diferentes aspectos a tener en cuenta para asegurar la seguridad de los clusters:
 
  *Network Policies*
-  - 
+  
   
  *Compliance*
  
@@ -32,6 +33,7 @@ A nivel de cluster detectamos diferentes aspectos a tener en cuenta para asegura
  - GateKeeper OPA
  
 ### Container runtime layer 
+-
 
 A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para asegurar la seguridad de los clusters:
 
@@ -62,7 +64,7 @@ A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para aseg
 
 
 ### Code Layer 
-
+-
 *Infraestructure as Code*
 - Terraform 
 - Snyk 
@@ -71,7 +73,7 @@ A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para aseg
 
 
 ## DUDAS
-
+-
 - Donde introducir ISTIO ? 
 - HArbor ? Buscar otros para comparar
 - Manual de estrucción unificado de todas las herramientas
