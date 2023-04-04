@@ -16,7 +16,8 @@ En el .docx se encontrara la memoria del TFG donde aparecera detalladamente las 
 A nivel de cluster detectamos diferentes aspectos a tener en cuenta para asegurar la seguridad de los clusters:
 
  *Network Policies*
-  
+  - Network Policies Kubernetes
+  - Isti9o
   
  *Compliance*
  
@@ -43,30 +44,26 @@ A nivel de cluster detectamos diferentes aspectos a tener en cuenta para asegura
 A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para asegurar la seguridad de los clusters:
 
 *Image Registry*
-- Harbor
-- ..
--... 
 
 *Image Scanning*
 
 - Trivy
-- Clair
-- Anchore ¿? O selecionar otro?DUDA
+- Clair => Error
+- Anchore
 
 *Image Signing*
 
 - NOTARY
-- ...
+- ... ¿??¿ No enc uentro comparativa
 
 *Runtime protection*
 
 - Enforcement
-  - ...
+  - Sysdig FecureR
 - Auditing
   - Falco
   - ...
-  
-
+ 
 
 ### Code Layer 
 -
@@ -74,11 +71,10 @@ A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para aseg
 - Terraform 
 - Snyk 
 
----- NECESARIO MAS HERRAMIENTAS - Sonarqube si da tiempo
+##Implementación 
+ - Con las herramientas selecionadas
 
 
 ## DUDAS
 -
-- Donde introducir ISTIO ? 
-- HArbor ? Buscar otros para comparar
 - Manual de estrucción unificado de todas las herramientas
