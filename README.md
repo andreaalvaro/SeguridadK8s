@@ -48,7 +48,7 @@ A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para aseg
 *Image Scanning*
 
 - Trivy
-
+- Grype <=
 - Anchore
 
 *Image Signing*
@@ -76,8 +76,10 @@ A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para aseg
 
 
 ## DUDAS
-- Compliance / Policy management /Falco
+- Compliance / Policy management / Falco
 - Clair => Error 
 - Code Layer 
 - Signing 
 - Manual de estrucción unificado de todas las herramientas
+- Observabilidad
+Con Istio puedes emplear sus llamados add-ons, entre los que se encuentrar Pormetheus y Grafana, esta guay porque es muy visual, pero se aleja un poco del tema de seguridad, dedicarle unos parrafos con alguna imágen bien. (istio add ons kiali)
