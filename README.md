@@ -43,12 +43,12 @@ A nivel de cluster detectamos diferentes aspectos a tener en cuenta para asegura
 -
 A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para asegurar la seguridad de los clusters:
 
-*Image Registry*
+*Image Registry* Mention
 
 *Image Scanning*
 
 - Trivy
-- Clair => Error
+
 - Anchore
 
 *Image Signing*
@@ -76,5 +76,8 @@ A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para aseg
 
 
 ## DUDAS
--
+- Compliance / Policy management /Falco
+- Clair => Error 
+- Code Layer 
+- Signing 
 - Manual de estrucción unificado de todas las herramientas
