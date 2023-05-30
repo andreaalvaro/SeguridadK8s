@@ -2,12 +2,17 @@
 Bienvenidos a mi repositorio de Trabajo de Fin de Grado sobre seguridad de Kubernetes. 
 El objetivo principal de este TFG es concienciar sobre la necesidad de implementar medidas de seguridad en Kubernetes y mostrar las diferentes herramientas disponibles para lograrlo. Además, se proporciona una visión detallada sobre las diferentes partes de Kubernetes que son necesarias proteger. 
 
+Nos centraremos principalmente en la protecion de runtime con las siguientes herramientas:
+ - Falco
+ - Sysdig Secure
+ - Red Hat StackRox
+
 En este repositorio, encontrarás los detalles del proyecto, como la metodología empleada, las herramientas de seguridad evaluadas, ejemplos prácticos y comparadas y los resultados obtenidos. 
 
 ## Estrutura del proyecto
-El codigo esta divido en carpetas donde se encuentran los ejemplos para cada una de las herramientas que se van a evaluar. 
 En el .docx se encontrara la memoria del TFG donde aparecera detalladamente las tablas comparativas de las herramientas asi la organización del proyecto. 
-
+La guia de instalación de las herrameintas principales se encuentra en un documento .pdf 
+Ademas se divide cada una de las herramientas en carpetas donde se encuentra el codigo de los ejemplos utilizados durante el proyecto para realizar las comaprativas. 
 
 ## Herramientas selecionadas
 
@@ -17,7 +22,7 @@ A nivel de cluster detectamos diferentes aspectos a tener en cuenta para asegura
 
  *Network Policies*
   - Network Policies Kubernetes
-  - Isti9o
+  - Istio
   
  *Compliance*
  
@@ -36,37 +41,32 @@ A nivel de cluster detectamos diferentes aspectos a tener en cuenta para asegura
    - Validate
    - Mutate 
    - Verify Images
- 
  - GateKeeper OPA
  
 ### Container runtime layer 
 -
 A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para asegurar la seguridad de los clusters:
 
-*Image Registry* Mention
+*Image Registry*
 
 *Image Scanning*
 
 - Trivy
-- Grype <=
-- Anchore
+- Clair
 
 *Image Signing*
 
-- NOTARY
-- ... ¿??¿ No enc uentro comparativa
+- NOTARY (Mención)
 
 *Runtime protection*
 
 - Enforcement
-  - Sysdig FecureR
+  - Sysdig Secure
 - Auditing
   - Falco
-  - ...
  
-
 ### Code Layer 
--
+Durante este proyecto no se abordara este nivel de seguridad.
 *Infraestructure as Code*
 - Terraform 
 - Snyk 
@@ -74,12 +74,9 @@ A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para aseg
 ##Implementación 
  - Con las herramientas selecionadas
 
+## Manual de Instalación
 
 ## DUDAS
 - Compliance / Policy management / Falco
-- Clair => Error 
-- Code Layer 
-- Signing 
-- Manual de estrucción unificado de todas las herramientas
 - Observabilidad
 Con Istio puedes emplear sus llamados add-ons, entre los que se encuentrar Pormetheus y Grafana, esta guay porque es muy visual, pero se aleja un poco del tema de seguridad, dedicarle unos parrafos con alguna imágen bien. (istio add ons kiali)
