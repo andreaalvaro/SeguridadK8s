@@ -74,7 +74,7 @@ Durante este proyecto no se abordara este nivel de seguridad.
 
 ## Manual de Instalación
 
-## DUDAS
+## Añadir 
 - Compliance / Policy management / Falco
 - Observabilidad
 Con Istio puedes emplear sus llamados add-ons, entre los que se encuentrar Pormetheus y Grafana, esta guay porque es muy visual, pero se aleja un poco del tema de seguridad, dedicarle unos parrafos con alguna imágen bien. (istio add ons kiali)
