@@ -45,7 +45,7 @@ A nivel de cluster detectamos diferentes aspectos a tener en cuenta para asegura
 ### Container runtime layer 
 A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para asegurar la seguridad de los clusters:
 
-*Image Registry*
+*Image Registry* Mencionar 
 
 *Image Scanning*
 
