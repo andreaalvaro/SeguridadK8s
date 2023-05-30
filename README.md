@@ -17,7 +17,6 @@ Ademas se divide cada una de las herramientas en carpetas donde se encuentra el 
 ## Herramientas selecionadas
 
 ### Cluster Layer 
--
 A nivel de cluster detectamos diferentes aspectos a tener en cuenta para asegurar la seguridad de los clusters:
 
  *Network Policies*
@@ -44,7 +43,6 @@ A nivel de cluster detectamos diferentes aspectos a tener en cuenta para asegura
  - GateKeeper OPA
  
 ### Container runtime layer 
--
 A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para asegurar la seguridad de los clusters:
 
 *Image Registry*
@@ -71,7 +69,7 @@ Durante este proyecto no se abordara este nivel de seguridad.
 - Terraform 
 - Snyk 
 
-##Implementación 
+## Implementación 
  - Con las herramientas selecionadas
 
 ## Manual de Instalación
