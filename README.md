@@ -7,7 +7,6 @@ Se centrara principalmente en la protecion de runtime (Falco, Sysdig Secure, Red
 En este repositorio, encontrarás los detalles del proyecto, como la metodología empleada, las herramientas de seguridad evaluadas, ejemplos prácticos y comparadas y los resultados obtenidos. 
 
 ## Estrutura del proyecto
-En el .docx se encontrara la memoria del TFG donde aparecera detalladamente las tablas comparativas de las herramientas asi la organización del proyecto. 
 La guia de instalación de las herrameintas principales se encuentra en un documento .pdf 
 Ademas se divide cada una de las herramientas en carpetas donde se encuentra el codigo de los ejemplos utilizados durante el proyecto para realizar las comaprativas. 
 
