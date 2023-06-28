@@ -45,7 +45,8 @@ A nivel de cluster detectamos diferentes aspectos a tener en cuenta para asegura
 ### Container runtime layer 
 A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para asegurar la seguridad de los clusters:
 
-*Image Registry* Mencionar 
+*Image Registry* 
+- Harbor
 
 *Image Scanning*
 
@@ -72,9 +73,5 @@ Durante este proyecto no se abordara este nivel de seguridad.
 ## Implementación 
  - Con las herramientas selecionadas
 
-## Manual de Instalación
-
-## Añadir 
-- Compliance / Policy management / Falco
-- Observabilidad
-Con Istio puedes emplear sus llamados add-ons, entre los que se encuentrar Pormetheus y Grafana, esta guay porque es muy visual, pero se aleja un poco del tema de seguridad, dedicarle unos parrafos con alguna imágen bien. (istio add ons kiali)
+## Guía de Instalación para macOS
+Se presenta una guia de instalación para instalar las herramientas mencionadas en la memoria del PFG. Esta guia de instalacion permite tener todas las herramientas minimas en un documento permitiendo asi mayor rapidez a la hora de instalar.
