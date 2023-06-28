@@ -52,7 +52,7 @@ A nivel de contenedor detectamos diferentes aspectos a tener en cuenta para aseg
 
 *Image Signing*
 
-- NOTARY (Mención)
+- NOTARY
 
 *Runtime protection*
 
